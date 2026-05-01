@@ -1,9 +1,6 @@
 # Healthcare Payment Variance Analytics and Contract Modeling Simulator
 Production-grade CMS Medicare payment variance analytics and contract modeling simulator. Identifies $16.66B in underpayment across 145,879 hospital-DRG combinations using FY2025 IPPS formula.
 
-
-# Healthcare Payment Variance Analytics and Contract Modeling Simulator
-
 ## Overview
 A production-grade payment variance analytics system built on real CMS Medicare FY2022 
 inpatient data. Implements the FY2025 IPPS expected payment formula to identify and 
